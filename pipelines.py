@@ -8,6 +8,6 @@
 from itemadapter import ItemAdapter
 
 
-class TutorialPipeline:
+class BitenginePipeline:
     def process_item(self, item, spider):
         return item
